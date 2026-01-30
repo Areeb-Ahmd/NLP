@@ -1,0 +1,15 @@
+# Text Preprocessing
+spacy
+nltk
+
+# Text Representation & ML
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+
+# Practical NLP (Hugging Face)
+transformers
+datasets
+torch
