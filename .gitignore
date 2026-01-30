@@ -1,1 +1,11 @@
 venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hugging Face – fine-tuning outputs & cache (avoid pushing GBs of checkpoints)
+**/checkpoint-*/
+**/results/
+*.safetensors
+.cache/
+hub/
